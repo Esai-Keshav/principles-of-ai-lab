@@ -6,7 +6,7 @@ def bfs(graph, start):
 
     while queue:
         node = queue.pop(0)
-        print(node, end="-->")
+        print(node, end="\t")
 
         for neigh in graph[node]:
             if neigh not in visited:
