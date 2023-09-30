@@ -1,12 +1,9 @@
 # Principles Of AI Lab
 
-## List of AI Lab Exercise:
+## List of AI Lab Exercises:
 
-1. [BFS](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/BFS(breath).py)
-2. [DFS](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/DFS(depth).py)
-3. [A* Algoithm](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/A_star.py)
-4. [Cryto-Arthematic problems](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/cryto_arthrmatic.py)
+1. [Breadth-First Search (BFS)](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/BFS(breath).py)
+2. [Depth-First Search (DFS)](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/DFS(depth).py)
+3. [A* Algorithm](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/A_star.py)
+4. [Crypto-Arithmetic Problems](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/cryto_arthrmatic.py)
 5. [Predicate Logic](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/predicate-logic.py)
-
-  
-
