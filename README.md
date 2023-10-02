@@ -7,3 +7,5 @@
 3. [A* Algorithm](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/A_star.py)
 4. [Crypto-Arithmetic Problems](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/cryto_arthrmatic.py)
 5. [Predicate Logic](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/predicate-logic.py)
+
+6.
