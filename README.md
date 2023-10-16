@@ -2,7 +2,7 @@
 
 ## List of AI Lab Exercises:
 
-1. Search Techinque
+1. **Search Techniques**
     - [Breadth-First Search (BFS)](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/BFS(breath).py)
     - [Depth-First Search (DFS)](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/DFS(depth).py)
 2. [A* Algorithm](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/A_star.py)
