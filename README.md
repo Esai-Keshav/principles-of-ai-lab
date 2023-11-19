@@ -10,4 +10,8 @@
 4. [Predicate Logic](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/predicate-logic.py)
 5. [Semantic Network](./Programs/sematic_net.py)
 6. [Naive Bayes](./Programs/Naive_Bayes.py)
+7. Game Playing
+    - [Min-Max](./Programs/min_max.py)
+    - [Alpha-Beta Pruning](./Programs/alpha_beta_pruning.py)
+
 
