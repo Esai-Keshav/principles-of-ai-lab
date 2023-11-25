@@ -13,5 +13,7 @@
 7. **Game Playing**
     - [Min-Max](./Programs/min_max.py)
     - [Alpha-Beta Pruning](./Programs/alpha_beta_pruning.py)
-
+8. [NLP: Tokenization](./Programs/NLP_token.py)
+9. [Spell Checking](./Programs/spell_check.py)
+10. [Expert System](./Programs/expert_system.py)
 
