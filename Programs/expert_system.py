@@ -28,10 +28,12 @@ class MedicalExpertSystem:
         if self.__ask_question("Do you have a cough?"):
             self.__symptoms.append("cough")
 
-        self.__patient_data = self.__patient_data.append(
-            {"Symptoms": ", ".join(self.__symptoms), "Diagnosis": ""}, ignore_index=True
+        new_data = pd.DataFrame(
+            {"Symptoms": [", ".join(self.__symptoms)], "Diagnosis": [""]}
         )
-        # Error
+        self.__patient_data = pd.concat(
+            [self.__patient_data, new_data], ignore_index=True
+        )
 
         if "fever" in self.__symptoms and "headache" in self.__symptoms:
             self.__diagnosis = "You might have the flu."
